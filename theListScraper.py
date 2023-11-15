@@ -38,8 +38,8 @@ def find_artists(results):
                     artist_names[artist_name] = 1
     return artist_names
 
-sp = spotipy.Spotify(auth_manager=SpotifyOAuth(client_id="815a2d977fb84893bda3ca19634084e3",
-                                               client_secret="aabc70d3ef6e4f7eacff20f317251bcf",
+sp = spotipy.Spotify(auth_manager=SpotifyOAuth(client_id="",
+                                               client_secret="",
                                                redirect_uri="http://localhost:1234",
                                                scope="user-library-read"))
 
