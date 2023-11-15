@@ -1,5 +1,5 @@
 # the-list-scraper
-Uses foopee.com and spotify api to find all upcoming shows with artists you have saved songs by. Requires a Spotify developer account
+Uses foopee.com and spotify api to find bands/artists in your library that have performances in the Bay Area. Requires a Spotify developer account.
 
 # How to use:
 ## 1. Create a spotify developer account and create a new project
