@@ -16,7 +16,7 @@ Uses foopee.com and spotify api to find bands/artists in your library that have 
 
 
 ## 4. Run the program
-### 4.a. To to folder where file is saved (on my desktop in this example):
+### 4.a. find folder where file is saved (on my desktop in this example):
 <img width="309" alt="Screenshot 2023-11-15 at 5 22 08 PM" src="https://github.com/Deanstirrat/the-list-scraper/assets/37011725/48ee743a-715c-40c4-9b97-dcdd74f08bf8">
 
 ### 4.b. Open terminal and navigate to folder path with cd command (example: Desktop/the-list-scraper):
